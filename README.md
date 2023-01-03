@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Tanmay_Mathur
-- 👀 I’m interested in Machines and Airplanes
+- 👋 Hi, I’m Tanmay
+- 😻 I’m interested in Machines🤖 and Airplanes🛩️
 - 🌱 I’m currently learning OpenCV and microPython
-- 💞️ I’m looking to collaborate on Teaching methodologies for Elementary kids
-- 📫 my inboxes are  Instagram @average_saturday_knightt and Linked in  
+- 🤝 I’m looking to collaborate on Teaching methodologies for Elementary kids
+- 📫 my inboxes are  Instagram @average_saturday_knightt 
 
 <!---
 Tanmax-Payne/Tanmax-Payne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
