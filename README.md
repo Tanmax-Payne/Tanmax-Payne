@@ -1,9 +1,6 @@
 -     Hi, I’m Tanmay
--     I’m interested in Machines🤖 and Airplanes🛩️
-- 🌱 I’m currently learning OpenMV and Image processing for UAV Vision 
-- 🤝 I’m looking to collaborate on Teaching methodologies for Elementary kids
-- 📫 my inboxes are  Instagram @average_saturday_knightt 
-
+-     interested in Machines🤖 and Airplanes🛩️
+- 🌱 currently learning OpenMV and Image processing for UAV Vision 
 -    Sometimes I write here https://swiftfalconets.wordpress.com/
 
 <!---
