@@ -1,6 +1,9 @@
--      I’m Tanmay,  Young Developer & Young Wantrepreneur 
+-      I’m Tanmay,  Young Developer, Young Wantrepreneur and Young in-general 
 -      interested in Machines🤖 and Airplanes🛩️
--      🌱 currently learning OpenMV and Image processing for UAV Vision 
+-      Learning these for the next project:   
+-      - OpenMV and 
+-      - Image processing for UAV Vision
+-      - Image Stitching 
 -      Sometimes I write here   https://swiftfalconets.wordpress.com
 
 <!---
