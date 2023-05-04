@@ -1,7 +1,7 @@
 -      I’m Tanmay,  Young Developer & Young Wantrepreneur 
 -      interested in Machines🤖 and Airplanes🛩️
 -      🌱 currently learning OpenMV and Image processing for UAV Vision 
--      Sometimes I write here https://swiftfalconets.wordpress.com/
+-      Sometimes I write here   https://swiftfalconets.wordpress.com
 
 <!---
 Tanmax-Payne/Tanmax-Payne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
